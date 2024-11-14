@@ -9,7 +9,7 @@ This project made use of SQL to clean and explore the data. It also made use of 
       * Creates a new table from the existing table and copies all the data into this new table in order to preserve the original data
       * In the new table, it checks for duplicates and removes any duplicate found to ensure the data is not redundant
 
-    - Exploratory Analysis
+  - Exploratory Analysis
       * Finds the top 5 artits
       * Finds the top 10 popular tracks
       * Finds the Percentage of top 10 danceable tracks
